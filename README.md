@@ -5,7 +5,7 @@ My personal weight-loss tracker: monthly weigh-ins, daily workouts and a diet pl
 | File | What it's for | How often to update |
 |------|---------------|---------------------|
 | [weight-log.md](weight-log.md) | Monthly weight and waist measurements | 1st of each month |
-| [logs/2026-11.md](logs/2026-11.md) | Daily workout and diet check-off | Every day |
+| [logs/](logs/) (e.g. [2026-11.md](logs/2026-11.md)) | **Daily weight** and workout, steps, water, diet | Every day |
 | [workout-plan.md](workout-plan.md) | Weekly exercise routine | When the routine changes |
 | [diet-plan.md](diet-plan.md) | Eating rules and sample meals | When the plan changes |
 
