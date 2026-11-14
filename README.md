@@ -38,7 +38,7 @@ BMI cut-offs:
 | Overweight | 25–29.9 | **23–27.4** |
 | Obese | 30+ | **27.5+** |
 
-**Waist** is just as important. Aim for **under 80 cm** for women or **under 90 cm** for men.
+**Waist** is just as important. For a South Asian woman, aim for **under 80 cm**.
 
 **Health check:** at 45 you're eligible for a free **NHS Health Check**, which includes blood
 pressure, cholesterol and diabetes risk. Ask your GP surgery for one, and ask about an
@@ -55,13 +55,29 @@ pressure, cholesterol and diabetes risk. Ask your GP surgery for one, and ask ab
 
 ### Daily calories (guide)
 
-Worked out for age 45, 155 cm, 67.6 kg, light activity, minus about 500 kcal a day:
+Worked out for a woman aged 45, 155 cm, 67.6 kg, light activity, minus about 500 kcal a day:
 
-- **Women:** about 1,250–1,300 kcal (don't go below 1,200)
-- **Men:** about 1,450–1,500 kcal
+- **About 1,300 kcal a day.** Don't go below 1,200, or you'll lose muscle and feel tired.
+- **On strength days or long-walk days**, an extra snack (about 100–150 kcal) is fine.
+- **Below 60 kg**, your body needs a little less, so tighten portions slightly
+  (about 1,200–1,250 kcal) rather than cutting harder.
 
 You don't have to count calories. Following the plate guide in [diet-plan.md](diet-plan.md)
 lands you close to this.
+
+### Women's health at 45
+
+- **Hormones:** perimenopause often starts in the mid-40s. It can make weight sit on the
+  stomach and slow progress, so a slow month is normal. The strength workouts help most here,
+  because they protect muscle and bone.
+- **Protein:** aim for about **80 g a day** (around 25 g per meal, plus a protein snack).
+  For example, 2 eggs ≈ 12 g, a piece of fish or chicken ≈ 25 g, 1 bowl of dal ≈ 9 g, 1 pot of doi ≈ 10 g.
+- **Calcium:** include doi, milk or small fish with bones (like mola or sardines) daily
+  for bone strength.
+- **Vitamin D:** the NHS advises people with brown skin to consider taking **10 mcg a day
+  all year round**. Halal-certified versions are available.
+- **Iron:** if you still have periods, eat dal, shak, eggs and red meat regularly. Tell your
+  GP if you feel unusually tired.
 
 ## Saving progress to GitHub
 

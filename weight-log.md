@@ -3,7 +3,7 @@
 Weigh in on the 1st of each month: morning, after the toilet, before eating, same scale.
 Measure your waist at belly-button level. It often keeps dropping when the scale stalls.
 
-**Height:** 155 cm · **Goal:** 55 kg · **BMI** = weight ÷ 2.40 · **Waist goal:** under 80 cm (women) / 90 cm (men)
+**Height:** 155 cm · **Goal:** 55 kg · **BMI** = weight ÷ 2.40 · **Waist goal:** under 80 cm
 
 | Month | Date | Target (kg) | Weight (kg) | Change (kg) | BMI | Waist (cm) | Notes |
 |-------|------|-------------|-------------|-------------|-----|------------|-------|

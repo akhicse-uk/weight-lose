@@ -39,7 +39,7 @@ daily calorie deficit you can keep up for months: about 500 kcal a day less than
 
 ## One-week Bangladeshi halal meal plan
 
-Everyday deshi food, made lighter. Portions are sized for about 1,300–1,500 kcal a day.
+Everyday deshi food, made lighter. Portions are sized for about 1,300 kcal a day.
 Use 1–2 tsp of oil per person when cooking. **Bhat (rice) = 1 fist (about ¾ cup cooked) per meal,
 once or twice a day, never piled high.**
 
