@@ -6,6 +6,9 @@ An easy, beginner-friendly routine. Needs no gym or equipment, about 30–40 min
 
 - **Walk 7,000–10,000 steps.** Start with what you can manage and add 1,000 steps a week.
 - **5 minutes of stretching** before bed.
+- **A 10–15 minute walk after lunch and dinner.** It's one of the best ways to lower blood
+  sugar after a meal, which matters for South Asians, who have a higher risk of type 2
+  diabetes. An easy time to fit it in is after Maghrib or Isha.
 
 ## Weekly schedule
 

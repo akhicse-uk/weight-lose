@@ -3,7 +3,7 @@
 Weigh in on the 1st of each month: morning, after the toilet, before eating, same scale.
 Measure your waist at belly-button level. It often keeps dropping when the scale stalls.
 
-**Height:** 155 cm · **Goal:** 58 kg · **BMI** = weight ÷ 2.40
+**Height:** 155 cm · **Goal:** 55 kg · **BMI** = weight ÷ 2.40 · **Waist goal:** under 80 cm (women) / 90 cm (men)
 
 | Month | Date | Target (kg) | Weight (kg) | Change (kg) | BMI | Waist (cm) | Notes |
 |-------|------|-------------|-------------|-------------|-----|------------|-------|
@@ -13,13 +13,13 @@ Measure your waist at belly-button level. It often keeps dropping when the scale
 | Feb 2027 | 2027-02-01 | 63.0 | | | | | |
 | Mar 2027 | 2027-03-01 | 61.0 | | | | | Milestone |
 | Apr 2027 | 2027-04-01 | 59.5 | | | | | |
-| May 2027 | 2027-05-01 | 58.0 | | | | | 🎯 Goal |
-| Jun 2027 | 2027-06-01 | 58.0 | | | | | Maintain |
-| Jul 2027 | 2027-07-01 | 58.0 | | | | | Maintain |
-| Aug 2027 | 2027-08-01 | 58.0 | | | | | Maintain |
-| Sep 2027 | 2027-09-01 | 58.0 | | | | | Maintain |
-| Oct 2027 | 2027-10-01 | 58.0 | | | | | Maintain |
-| Nov 2027 | 2027-11-01 | 58.0 | | | | | Maintain |
+| May 2027 | 2027-05-01 | 58.0 | | | | | Milestone: BMI under 25 |
+| Jun 2027 | 2027-06-01 | 56.5 | | | | | |
+| Jul 2027 | 2027-07-01 | 55.0 | | | | | 🎯 Goal (BMI 22.9) |
+| Aug 2027 | 2027-08-01 | 55.0 | | | | | Maintain |
+| Sep 2027 | 2027-09-01 | 55.0 | | | | | Maintain |
+| Oct 2027 | 2027-10-01 | 55.0 | | | | | Maintain |
+| Nov 2027 | 2027-11-01 | 55.0 | | | | | Maintain |
 
 Being within 1 kg of the target is on track. Weight naturally swings 0.5–1.5 kg day to day.
 

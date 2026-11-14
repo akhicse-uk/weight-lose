@@ -37,30 +37,44 @@ daily calorie deficit you can keep up for months: about 500 kcal a day less than
    + a thumb of oil, butter or nuts
 ```
 
-## One-week halal meal plan
+## One-week Bangladeshi halal meal plan
 
-Portions are sized for about 1,300–1,500 kcal a day. Use 1 tsp of oil per person when cooking.
+Everyday deshi food, made lighter. Portions are sized for about 1,300–1,500 kcal a day.
+Use 1–2 tsp of oil per person when cooking. **Bhat (rice) = 1 fist (about ¾ cup cooked) per meal,
+once or twice a day, never piled high.**
 
 | Day | Breakfast | Lunch | Dinner |
 |-----|-----------|-------|--------|
-| Mon | 2 boiled eggs, 1 wholegrain toast, cucumber and tomato | Grilled chicken tikka, big salad, 1 small roti | Daal (lentils) with mixed vegetables, ½ cup brown rice |
-| Tue | Oats with milk and berries | Tuna salad wrap (wholegrain wrap) | Baked salmon or white fish, roasted vegetables, 1 small potato |
-| Wed | Greek yoghurt with a sliced apple and cinnamon | Leftover daal with salad | Chicken and vegetable stir-fry, ½ cup rice |
-| Thu | Vegetable omelette (2 eggs, onion, spinach, chilli) | Chickpea salad with lemon and herbs | Lamb or beef keema (lean mince) with peas, 1 small roti |
-| Fri | Oats with milk and a banana | Grilled fish, salad, ½ cup rice | Chicken soup with lots of vegetables |
-| Sat | 2 eggs, sautéed mushrooms and tomato | Homemade chicken shawarma bowl (no fries): salad, yoghurt sauce | Relaxed meal (enjoy it, with a sensible portion) |
-| Sun | Yoghurt with nuts and berries | Mixed bean curry with salad | Grilled chicken, vegetables, 1 small roti |
+| Mon | 2 boiled eggs (dim), 1 atta ruti, cucumber | Rui/tilapia mach curry, lal shak, 1 fist bhat | Masoor dal with lau (bottle gourd), 1 atta ruti |
+| Tue | Oats or chira with milk, no sugar, a banana | Chicken jhol (light, lots of potol/peppers), salad, 1 fist bhat | Grilled or air-fried fish, mixed sobji, small portion of bhat |
+| Wed | Dim bhaji (2-egg omelette with onion, chilli, coriander), 1 ruti | Mixed sobji with dal, 1 fist bhat | Chicken tikka or tandoori (grilled), big salad, 1 ruti |
+| Thu | Doi (plain yoghurt) with fruit | Begun bhorta, dal, a piece of fish, 1 fist bhat | Lean beef or mutton bhuna with lots of vegetables, 1 ruti |
+| Fri | 2 eggs, 1 ruti, tomato | Jummah: enjoy a family meal, but 1 plate only, salad first, no second helping of rice | Light: vegetable and chicken soup |
+| Sat | Oats or chira with doi and fruit | Prawn (chingri) and lau/potol curry, 1 fist bhat | Masoor or mung dal, shak, 1 ruti |
+| Sun | Dim bhaji, 1 ruti | Mach, tomato or shutki bhorta (go easy on salt), salad, 1 fist bhat | Chicken jhol with sobji, 1 ruti |
 
-**Snacks (pick 1–2 a day):** an apple or orange, a small handful of nuts, Greek yoghurt,
-carrot or cucumber sticks with hummus, 2–3 dates, roasted chickpeas.
+**Snacks (pick 1–2 a day):** guava (peyara), apple, orange, a slice of papaya, cucumber with
+lemon and salt, a small handful of nuts or roasted chola (chickpeas), 2–3 dates, plain doi.
 
-**Drinks:** water, tea or coffee (little or no sugar), lassi made without sugar.
+**Drinks:** water, cha with little or no sugar (no condensed milk), unsweetened lassi or borhani.
 
-## Lighter cooking tips
+## Bangladeshi kitchen: make it lighter
 
-- **Curries:** use 1–2 tsp of oil instead of several tablespoons, and bulk them out with
-  vegetables (spinach, cauliflower, peppers).
-- **Rice and roti:** keep to one fist of rice **or** 1 small roti per meal, not both.
+- **Bhat:** this is the biggest one. Use a smaller plate and serve **1 fist of rice** with
+  **more dal, sobji and shak**. Fill half the plate with vegetables first.
+- **Oil:** bhuna and torkari usually use a lot of oil. Measure it: 1–2 tsp per person, not a
+  ladle. Cook with a lid so food steams instead of frying.
+- **Mach and shak:** eat these often. Fish, especially oily fish like ilish, rui and pangas, is
+  excellent protein. Lal shak, palong shak and pui shak are almost free on calories.
+- **Fried foods:** keep paratha, luchi, puri, singara, samosa, piyaju, beguni and pakora for
+  weekends or special days, not daily. Choose atta ruti instead of paratha.
+- **Mishti and pitha:** roshogolla, chomchom, kalojam, pitha and payesh are very high in sugar.
+  Save them for Eid, weddings and guests, and have **one piece**.
+- **Cha:** 3 cups of sweet cha a day can be 200+ kcal. Cut the sugar gradually, or use a sweetener.
+- **Biryani, polao, tehari and kacchi:** treat these as a weekly or occasional meal, 1 portion,
+  with salad and borhani rather than cold drinks.
+- **Fruit:** eat it whole; skip juice. Go easy on mango and jackfruit in season (small portions).
+- **Rice and ruti:** keep to one fist of bhat **or** 1–2 small atta ruti per meal, not both.
 - **Meat:** choose chicken breast, fish and lean mince, and grill or bake instead of frying.
 - **Sweets:** keep traditional sweets and desserts for special occasions and Eid, in small portions.
 - **Ramadan:** eat a protein-rich suhoor (eggs, yoghurt, oats). At iftar, open with dates and
@@ -79,6 +93,7 @@ carrot or cucumber sticks with hummus, 2–3 dates, roasted chickpeas.
 
 ## Shopping list basics
 
-Eggs, halal chicken breast, lean halal mince, fish (salmon, tuna, white fish), lentils,
-chickpeas, Greek yoghurt, oats, wholegrain bread or wraps, brown rice, frozen vegetables,
-salad, fruit, nuts, dates, hummus, spices.
+Eggs, halal chicken, lean halal beef or mutton, fish (rui, tilapia, pangas, ilish, salmon),
+chingri, masoor and mung dal, chola, plain doi or Greek yoghurt, oats, chira, atta,
+rice, shak (lal, palong, pui), lau, potol, begun, kumra, frozen vegetables, salad,
+guava and other fruit, nuts, dates, spices.

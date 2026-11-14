@@ -17,13 +17,32 @@ My personal weight-loss tracker: monthly weigh-ins, daily workouts and a diet pl
 | Age | 45 |
 | Height | 5'1" (155 cm) |
 | Start weight | 67.6 kg |
-| Start BMI | 28.2 (overweight) |
-| Healthy weight range | 44.5–59.8 kg (BMI 18.5–24.9) |
-| **Goal weight** | **58 kg** (BMI 24.1) |
-| To lose | 9.6 kg |
-| Target pace | about 0.5 kg per week (about 2 kg per month) |
-| Expected goal date | around May 2027 |
-| Food | Halal |
+| Background | Bangladeshi, Muslim |
+| Start BMI | 28.2 (obese range on South Asian cut-offs) |
+| Healthy weight range | 44.5–55.2 kg (BMI 18.5–22.9, South Asian cut-off) |
+| **Goal weight** | **55 kg** (BMI 22.9) |
+| To lose | 12.6 kg |
+| Target pace | about 0.5 kg per week (about 2 kg per month, slower near the end) |
+| Expected goal date | around July 2027 |
+| Food | Halal, Bangladeshi home cooking |
+
+### Why the South Asian BMI cut-offs?
+
+People of South Asian background (including Bangladeshi) carry more fat around the middle and
+develop type 2 diabetes and heart disease at a lower weight. So the NHS and NICE use lower
+BMI cut-offs:
+
+| BMI | Standard | South Asian |
+|-----|----------|-------------|
+| Healthy | 18.5–24.9 | **18.5–22.9** |
+| Overweight | 25–29.9 | **23–27.4** |
+| Obese | 30+ | **27.5+** |
+
+**Waist** is just as important. Aim for **under 80 cm** for women or **under 90 cm** for men.
+
+**Health check:** at 45 you're eligible for a free **NHS Health Check**, which includes blood
+pressure, cholesterol and diabetes risk. Ask your GP surgery for one, and ask about an
+**HbA1c (blood sugar) test** too.
 
 ### Milestones
 
@@ -31,7 +50,8 @@ My personal weight-loss tracker: monthly weigh-ins, daily workouts and a diet pl
 |----|---------------|-------------|
 | 1 Jan 2027 | 64.5 kg (first 5% gone) | New trainers or workout clothes |
 | 1 Mar 2027 | 61 kg | |
-| 1 May 2027 | 58 kg 🎯 | |
+| 1 May 2027 | 58 kg (out of the obese range, under BMI 25) | |
+| 1 Jul 2027 | 55 kg 🎯 (healthy for South Asian) | |
 
 ### Daily calories (guide)
 
@@ -42,10 +62,6 @@ Worked out for age 45, 155 cm, 67.6 kg, light activity, minus about 500 kcal a d
 
 You don't have to count calories. Following the plate guide in [diet-plan.md](diet-plan.md)
 lands you close to this.
-
-> **Note:** For people of South Asian, Chinese, Middle Eastern, Black African or African-Caribbean
-> background, the NHS uses a lower healthy-weight cut-off (BMI 23). If that applies to you, a
-> second-stage goal of about **55 kg** (BMI 22.9) is worth aiming for once you reach 58 kg.
 
 ## Saving progress to GitHub
 
